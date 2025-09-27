@@ -15,15 +15,15 @@ SQL – Data extraction, transformation, and querying for insights
 
 The projects here are designed to explore real-world healthcare scenarios, such as:
 
-Immunization coverage tracking
+1. Immunization coverage tracking
 
-Patient outcomes and hospital performance
+2. Patient outcomes and hospital performance
 
-Resource utilization and capacity planning
+3. Resource utilization and capacity planning
 
-Claims and billing analysis
+4. Claims and billing analysis
 
-Public health trends
+5. Public health trends
 
 # Purpose
 
